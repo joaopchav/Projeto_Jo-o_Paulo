@@ -19,11 +19,11 @@ public class C {
     }
 
     public void MC1() {
-        System.out.println("Executando método MC1 de C");
+        System.out.println("Executando método MC1 de C!");
     }
 
     public void MC2() {
-        System.out.println("Executando método MC2 de C");
+        System.out.println("Executando método MC2 de C!");
     }
 
 }
