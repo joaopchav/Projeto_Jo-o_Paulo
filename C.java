@@ -26,4 +26,8 @@ public class C {
         System.out.println("Executando método MC2 de C!");
     }
 
+    public void MC3() {
+        System.out.println("Executando método MC3 de B");
+    }
+
 }
