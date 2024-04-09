@@ -29,4 +29,7 @@ public class A {
     public void MA3() {
         System.out.println("Alteração da classe A apartir do clone!");
     }
+    public void getSoma(int A1, float A2){
+        soma = A1 + A2;
+    }
 }
